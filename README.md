@@ -40,4 +40,3 @@ The trained model learns relationships between environmental variables and obser
 ## Objective
 
 The project demonstrates how machine learning can be applied to analyze environmental conditions, supporting smarter classroom management and climate monitoring systems.
-If you want, I can also **add sections for setup, usage, and dataset format**, which will make the README even more professional and ready for GitHub. Do you want me to do that?
